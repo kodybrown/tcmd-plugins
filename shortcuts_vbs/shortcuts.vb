@@ -5,6 +5,9 @@
 ' Copyright (C) 2013-2014 Kody Brown (@wasatchwizard)
 ' Released under the MIT License.
 '
+' shortcuts.wlx is Copyright (C) Ivan aka Atlanoff (atlanoff@yandex.ru)
+' originally named wlx_vbscript.wlx, part of wlx_vbscript_0_5_1.zip
+'
 
 font_name = "Consolas"
 font_size = 9
@@ -14,7 +17,7 @@ view_scroll = "both"
 'view_backgroundcolor = "silver"
 'view_textcolor = "blue"
 
-result_text	= ""
+result_text = ""
 
 ' Objects
 Set wso = CreateObject("Wscript.Shell")
